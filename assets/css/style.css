@@ -20,11 +20,11 @@ header {
     font-size: 48px;
 }
 
- .seo {
+.seo {
     color: #d9dcd6;
 }
 
- nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ header {
     font-size: 20px;
 }
 
- ul {
+ul {
     list-style-type: none;
 }
 
- li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -165,6 +165,4 @@ footer {
     text-align: center;
 }
 
-footer h2 {
-    font-size: 20px;
-}
+
